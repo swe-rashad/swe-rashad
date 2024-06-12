@@ -6,8 +6,7 @@ About Me
 
 👀 Interests: Passionate about user experience design, modern frontend technologies, and crafting seamless, intuitive interfaces.
 
-💼 Collaboration: Seeking opportunities to collaborate on innovative projects that push the boundaries of web development and deliver real
-                  value to users.
+💼 Collaboration: Open to innovative projects that push web development boundaries.
 
 📫 Contact: https://www.linkedin.com/in/rashad-yusifov-521a46202/
 
