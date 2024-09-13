@@ -1,6 +1,6 @@
 👋 Hi, I’m Rashad
 
-Welcome to my GitHub profile! I am a senior frontend developer with over 6+ years of experience, dedicated to creating web applications that enhance digital products for employees and customers.
+Welcome to my GitHub profile! I am a  frontend developer with over 7+ years of experience, dedicated to creating web applications that enhance digital products for employees and customers.
 
 About Me
 
