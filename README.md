@@ -14,6 +14,20 @@ About Me
 
 😄 Pronouns: He/Him
 
-Languages & Frameworks: JavaScript, React, Vue, Angular, TypeScript
 
-Feel free to explore my repositories to see some of the projects I have worked on. I am always open to feedback and discussions, so don't hesitate to get in touch!
+I’m a Senior Frontend Engineer with 10+ years of experience building web applications, primarily in fintech and banking.
+I enjoy solving complex frontend problems, working on scalable applications, and using AI to improve my productivity and development workflow.
+
+Currently, I’m open to remote Senior Frontend Engineer and JavaScript Engineer opportunities.
+
+WHAT I WORK WITH
+→ Frontend — React · Next.js · Vue · Nuxt · Angular · Flutter
+→ Languages — JavaScript · TypeScript · HTML · CSS · Dart
+→ State — Pinia · Vuex · Redux
+→ Backend — Node.js · Express · NestJS · REST APIs
+→ Data — PostgreSQL · MySQL · MongoDB · Redis · SQL · TypeORM
+→ Testing — Jest · Vitest · Cypress · Playwright · Enzyme
+→ Engineering — Micro Frontends · Performance · Accessibility · OOP · Trunk-Based Development
+→ DevOps — Git · GitLab CI/CD · Docker · Nginx · Grafana
+→ UI & DX — Tailwind CSS · SCSS · Storybook · Vite · Babel
+→ Leadership — Technical Leadership · Teamwork · Communication · Agile
