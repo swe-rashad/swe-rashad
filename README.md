@@ -8,7 +8,9 @@ About Me
 
 💼 Collaboration: Open to innovative projects that push web development boundaries.
 
-📫 Contact: https://www.linkedin.com/in/rashad-yusifov-521a46202/
+📫 Contact: https://www.linkedin.com/in/rashad-yusifli-521a46202/
+
+ℹ️ Medium: https://medium.com/@swe.rashad
 
 😄 Pronouns: He/Him
 
